@@ -59,3 +59,5 @@ SARIMA model prediction and actual plots
 RMSE for sarima model is 42,606.6 KW
 
 ### FB prophet model
+
+<img src="images/six_time_series.png" border="0"> 
