@@ -60,4 +60,8 @@ RMSE for sarima model is 42,606.6 KW
 
 ### FB prophet model
 
+Used time series for analysis
+
 <img src="images/six_time_series.png" border="0"> 
+
+RMSE for sarima model is 31,729.4 KW
